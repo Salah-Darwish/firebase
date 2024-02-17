@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142363280702",
+    "project_id": "react-native-dream-3b737",
+    "storage_bucket": "react-native-dream-3b737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142363280702:android:299c4357e6abe0b76f186f",
+        "android_client_info": {
+          "package_name": "com.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142363280702-3rea0ir3liu30ker59rf4jm24jc0r3q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRIbhaLU1mhbevqD5-55pYZ9064VX0OFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142363280702-3rea0ir3liu30ker59rf4jm24jc0r3q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
